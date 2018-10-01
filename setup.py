@@ -10,7 +10,7 @@ if sys.platform=='win32':
 executables = [cx_Freeze.Executable('ftoneanalyser.py',base=None)]
 cx_Freeze.setup(
      name="Helpwiththemood",
-	 options={"build_exe":{"packages":["urllib.request","urllib.parse","re","webbrowser","json","tweepy","datetime","collections","sys","twitter","emoji","regex","watson_developer_cloud","tkinter",]}},
+	 options={"build_exe":{"packages":["urllib.request","urllib.parse","re","webbrowser","json","tweepy","datetime","collections","sys","twitter","emoji","regex","watson_developer_cloud","tkinter"]}},
 	 version="0.01",
 	 description="Find the mood on the basis of the tweets by the user, need to provide the screen naame only",
 	 executables=executables
