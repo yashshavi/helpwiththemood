@@ -1,0 +1,26 @@
+for fetching data from twitter:
+need to download twitter module
+using this commend in cmd-
+pip install twitter
+pip install tweepy
+
+Need to install watson_devloper_cloud to work on tone analyser:
+
+pip install watson_devloper_cloud
+
+for opening youtube in default browser 
+ one need to have 'urllib' module,and webbrowser module if not have already.
+ 
+For data cleaning need to download emoji module,regex module,re module :
+
+pip install emoji
+pip install regex
+pip install re
+
+For building desktop application 
+tkinter
+pip install tkinter
+
+for building standalone application
+
+pip install cx_Freeze
