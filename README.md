@@ -37,8 +37,13 @@ o	Copy the url value.
 •	setup.py: The file used for setting uo stand alone file.
 
 .    Undertaking:undertaking for orignality.
+
 .    Document.docx:Documentation file of project.
 
 •	README.md: The file that you are reading at this moment.
 
 •	requirements.txt: A file for listing the Python libraries that you need for desktop app code, with each library on a new line. Replace the libraries in this file with whatever you need for your application. 
+
+.New project.mp4: Demo video of project.
+
+.Helpwithmymood.pptx: PPT of project.
