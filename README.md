@@ -34,7 +34,10 @@ o	Copy the url value.
 •	Ftoneanalyser.py: 
             A file that contain the main program for the desktop application-All functions required to build front end and the code for the backend i . e api for tone analyser ,for retrieving tweets from twitter ,analysing the sentiments and getting prominent  emotion and for taking proper action according to emotions i.e showing the person name with a massage name showing feeling and suggesting him to click on play button to play on the you tube playlist. As the user click play the you tube with apt music playlist will be open in the default web browser .   
 
-•	License.txt: Contains placeholder text that you replace with the license that you distribute your app with.
+•	setup.py: The file used for setting uo stand alone file.
+
+.    Undertaking:undertaking for orignality.
+.    Document.docx:Documentation file of project.
 
 •	README.md: The file that you are reading at this moment.
 
