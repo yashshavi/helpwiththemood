@@ -2,7 +2,7 @@
 This document provides the rules for Formatting of code. This document specifies the do's and don'ts for code formatting with the help of examples. The document covers Vertical Formatting, Horizontal Formatting and Liter's used in code for different language. 
 
 ## Vertical Formatting:
-    * LOC 
+    **LOC**
     LOC in a file should be less than 100.
 
     * NewsPaper Metaphor
